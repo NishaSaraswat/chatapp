@@ -1,0 +1,5 @@
+{
+  "atlasUrl": "mongodb+srv://photochat:photochat456@cluster0.6mc4f.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "publicPushKey": "<your-public-key>",
+  "privatePushKey": "<your-private-key>"
+}
